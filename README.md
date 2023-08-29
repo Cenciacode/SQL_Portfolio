@@ -44,4 +44,23 @@ This project portfolio demonstrates my ability to work with SQL and real-world d
 
 
 
+Additional Questions and Insights
+
+In addition to the primary objectives, we also looked more closely at our movie dataset and found some intriguing results:
+
+Total Films: We have a sizable and varied collection of films in our dataset.
+
+The movies in our collection have, on average, garnered decent ratings, indicating overall quality.
+
+Highest Rated Film: Among the films in our dataset, one stood out as having the highest rating.
+
+Average Rating by Director: In order to assess each director's directing abilities, we looked at how well their films were generally regarded.
+
+Number of Films Produced by Each Director: Some directors have produced an impressively high number of films.
+
+The number of films released each year has been trending, with some years being especially active in terms of new releases.
+
+Highest Rated Film by Director: To highlight each director's outstanding work, we determined their highest-rated films.
+
+These new revelations deepen our comprehension of the movie dataset and show my capacity to glean insightful knowledge from data.
 
